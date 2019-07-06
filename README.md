@@ -1,0 +1,2 @@
+# RicH
+WORDLIST # GENERATOR
